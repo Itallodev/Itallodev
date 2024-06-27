@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Aoba! Me chamo Itallo Agenário 🫡<br><br>✨ Crio bugs desde 2021<br>📚 Estou me especializando em TypeScript e Golang é meu próximo alvo!<br>🎯 Objetivo: Estou focado em me tornar um Engeheiro de Software, para isso estarei realizando projetos diariamente para provar minha capacidade e conquistar meu lugar. <br>Terá commit todos os dias SIM!🤓🤙</p>
+<p align="left">Aoba! Me chamo Itallo Agenário 🫡<br><br>✨ Crio bugs desde 2021<br>📚 Estou me especializando em TypeScript e Golang é meu próximo alvo!<br>🎯 Objetivo: Estou focado em me tornar um Engeheiro de Software, para isso estarei realizando projetos diariamente para provar minha capacidade e conquistar meu lugar.🤓🤙</p>
 
 ###
 
