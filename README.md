@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aoba! Me chamo Itallo Agenário 🫡<br><br>✨ Crio bugs desde 2022<br>📚 Estou me especializando em Go! <br>🎯 Objetivo: Estou focado em me tornar um Engenheiro de Software <br> ou cientista de dados para isso estarei realizando projetos diariamente para provar minha capacidade e conquistar meu lugar.🤓🤙</p>
+<p align="left">Aoba! Me chamo Itallo Agenário 🫡<br><br>✨ Crio bugs desde 2022<br>📚 Golang fanboy</p>
 
 ###
 
